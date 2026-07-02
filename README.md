@@ -4,7 +4,7 @@ An ML pipeline and interactive dashboard that forecasts payment failure risk acr
 payment channels, routes, providers, and time windows — built for Optimus AI Labs
 Hackathon 2026 (Test Case 2: Finance Domain).
 
-🔗 **Live Dashboard:** [Add your Streamlit Cloud link here]
+🔗 **Live Dashboard:** https://payment-failure-forecasting-ffvyxfacmsf8qnnsf3xxbq.streamlit.app/
 
 ## Problem
 
